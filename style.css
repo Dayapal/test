@@ -1,0 +1,27 @@
+
+.container {
+    display: flex;
+    max-width: 90%;
+    justify-content: space-between;
+    margin: 2rem auto;
+}
+
+
+.container div img {
+    width: 100%;
+}
+.container div {
+    margin: 3px;
+}
+
+.container div h3 {
+    color: gray;
+}
+
+.container div p {
+    color: gray;
+}
+
+.container div a {
+    color: black;
+}
